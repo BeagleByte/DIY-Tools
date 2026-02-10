@@ -84,3 +84,6 @@ Microservices: Architectural style where an application is composed of small, in
 ## Libraries and Tool usage
 Describe if necessary which libraries or tool suposed to be used, in the project
 
+## Tests:
+Project specific tests. Integration test. Comparison of different approaches etc.
+
