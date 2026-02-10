@@ -2,7 +2,7 @@
 
 ## Scope: The project is meant to be run on ....
 ### Workflow:
-<Support the agent with diagram if possible>
+<Support the agent with diagram if possible, Mermaid is a goog choice>
 
 ## Rules: 
        - Use for every method not more than three parameters.
@@ -19,6 +19,8 @@
        - check for third party dependencies, and if they REALLY necessary
        - avoid deprecated dependencies
        - IF the program needs high CPU usage, use concurrency, multithreading
+       - Handle errors explicitly
+       - logging errors and infos
 
 ## Desing Patterns: 
 Make usage of design pattern IF necessary! Combine it with Rules of OOP and creation of classes
@@ -78,4 +80,7 @@ Microservices: Architectural style where an application is composed of small, in
 ## Tasks:
 1. Task
 2. Task
+
+## Libraries and Tool usage
+Describe if necessary which libraries or tool suposed to be used, in the project
 
